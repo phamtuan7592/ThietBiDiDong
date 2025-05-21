@@ -1,0 +1,3 @@
+1. Mong muốn của em khi học xong môn này là có thể làm 1 app di động đơn giản và nắm rõ kiến thức lập trình app 
+   Định hướng có thể tạo một app hoàn chỉnh và đưa lên chợ
+2. Theo em 10 năm tới lập trình thiếp bị di đông sẽ có phát triển mạnh vì có nhiều người sử dụng điện thoại để học tập, làm việc, giải trí, mua sắm. Các doanh nghiệp điện thoại sản xuất ra những chiếc điện thoại gập màn hình đặc biệt là kính thực tế ảo VR từ đó tạo ra nhiều cơ hội và nhu cầu mới trong việc lập trình ứng dụng di động
